@@ -1,0 +1,12 @@
+Data input: c = 4, k = 3, n = 73
+Denomination: 64 Quantity: 1
+Denomination: 16 Quantity: 0
+Denomination: 4 Quantity: 2
+Denomination: 1 Quantity: 1
+
+Data input: c = 3, k = 3, n = 10
+Denomination: 27 Quantity: 0
+Denomination: 9 Quantity: 1
+Denomination: 3 Quantity: 0
+Denomination: 1 Quantity: 1
+
